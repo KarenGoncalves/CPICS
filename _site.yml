@@ -10,12 +10,6 @@ navbar:
     - text: "Past committees"
       href: comites.html
   right:
-    - icon: glyphicon glyphicon-envelope
-      href: cpicseve@gmail.com
-    - icon: ion-social-twitter
-      href: https://twitter.com/CPICSEVE
-    - icon: ion-social-linkedin
-      href: https://www.linkedin.com/company/cpics/about/
 output:
   html_document:
     theme: cerulean
