@@ -68,6 +68,8 @@ footer {
 
 #
 
+<img src="images/logo_full.png">
+
 <section>
   <nav>
   <a class="twitter-timeline" data-width="600" data-height="1500" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -77,7 +79,6 @@ footer {
 
 <center> 
 
-<img src="images/logo_full.png">
 
 
 <span style="font-size: 2em"> <p align="center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) </span>
