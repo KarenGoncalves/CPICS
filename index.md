@@ -70,7 +70,7 @@ footer {
 
 <section>
   <nav>
-  <a class="twitter-timeline" data-width="500" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-width="600" data-height="1500" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </nav>
 
   <article>
