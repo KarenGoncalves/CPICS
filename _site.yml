@@ -7,7 +7,7 @@ navbar:
       href: about.html
     - text: "Events"
       href: symposia.html
-    - text: "Past committees"
+    - text: "Committees"
       href: comites.html
   right:
 output:

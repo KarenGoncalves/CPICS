@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: ""
+name: "About"
 output:
   html_document
 ---

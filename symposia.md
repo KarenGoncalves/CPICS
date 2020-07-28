@@ -1,5 +1,6 @@
 ---
-title: "Events"
+title: ""
+name: "Events"
 output:
   html_document
 ---
