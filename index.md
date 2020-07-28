@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "<span style='font-size: 20px'>CPICS/CSIPC</style>"
 name: "Home"
 output:
   html_document
