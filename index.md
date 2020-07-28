@@ -1,9 +1,18 @@
 ---
-title: "Comité de partenariat international du Centre SÈVE"
+title: ""
 output:
-  rmarkdown::html_document:
-    theme: lumen
-    toc: true
+  html_document
 ---
+
+#
+
+#
+
+#
+
+#
+
+#
+
 
 ![](images/comite_2020.jpg)

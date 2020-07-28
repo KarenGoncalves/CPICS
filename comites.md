@@ -1,11 +1,16 @@
 ---
-title: "Past committees"
+title: ""
 output:
-  rmarkdown::html_document:
-    theme: lumen
-    toc: false
-    
+  html_document
 ---
+
+#
+
+#
+
+#
+
+#
 
 #   {.tabset .tabset-fade} 
 

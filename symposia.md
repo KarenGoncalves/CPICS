@@ -1,14 +1,25 @@
 ---
-title: "Symposia"
+title: ""
 output:
-  rmarkdown::html_document:
-    theme: lumen
-    toc: false
-    
+  html_document
 ---
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
 
 #   {.tabset .tabset-fade} 
 ## **Upcoming**
+
+_What's up?_ Conferences
 
 ## **Past**   {.tabset .tabset-fade} 
 
@@ -34,7 +45,9 @@ output:
 ##### Photos
 
 ![](images/symposium_2019_photos.jpg)
+
 ![](images/symposium_2019_photos2.jpg)
+
 ![](images/symposium_2019_photos3.jpg)
 
 ![](images/symposium_2019_photos4.jpg)

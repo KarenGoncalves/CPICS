@@ -3,22 +3,19 @@ output_dir: "."
 navbar:
   title: "CPICS | CSIPC"  
   left:
-    - text: "Home"
-      href: index.html
     - text: "About us"
       href: about.html
-    - text: "Symposia"
+    - text: "Events"
       href: symposia.html
     - text: "Past committees"
       href: comites.html
   right:
-    - icon: fa-envelope fa-lg
+    - icon: glyphicon glyphicon-envelope
       href: cpicseve@gmail.com
-    - icon: fab fa-twitter
+    - icon: ion-social-twitter
       href: https://twitter.com/CPICSEVE
-    - icon: fab fa-linkedin-in
+    - icon: ion-social-linkedin
       href: https://www.linkedin.com/company/cpics/about/
 output:
-  rmarkdown::html_document:
-    theme: paper
-    css: figures.css
+  html_document:
+    theme: cerulean
