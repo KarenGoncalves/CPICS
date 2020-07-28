@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-name: ""
+name: "Committees"
 output:
   html_document
 ---
