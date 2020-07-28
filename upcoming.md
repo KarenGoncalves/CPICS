@@ -29,5 +29,5 @@ output:
 
 
 
-## **_What's up?_ Conferences**
+## ![](images/whatsup_conferences.png)
 
