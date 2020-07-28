@@ -80,7 +80,20 @@ footer {
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-## Professors
+## Program 
+
+<table style="width:100%; border: none;">
+  <tr>
+    <td align="center" class="photos">
+        ![](images/symposium_2019_agenda_fr.jpg)
+    </td>
+    <td align="center" class="photos" style="height: 4em"> 
+    </td>
+  </tr>
+</table>
+
+
+## Professors / Professeurs
 
 <table style="width:100%; border: none;">
   <tr>
@@ -105,4 +118,6 @@ footer {
 
 ![](images/symposium_2019_photos4.jpg)
 
-![](images/symposium_2019_photos.jpg)
+![](images/symposium_2019_photos5.jpg)
+
+![](images/symposium_2019_photos6.jpg)
