@@ -306,9 +306,73 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <div id="section" class="section level1">
 <h1></h1>
+<section>
+<nav>
+<a class="twitter-timeline" data-width="500" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</nav>
+<article>
 <center>
 <p><img src="images/logo_full.png"></p>
 <span style="font-size: 2em">
@@ -318,7 +382,11 @@ $(document).ready(function () {
 <p>Fondé en 2018, le <strong>Comité de partenariat international du Centre SÈVE <em>(CPICS)</em></strong> est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au <strong><em>Centre SÈVE</em></strong>. Il regroupe une dizaines d’étudiant(e)s provenant de l’ensemble des universités québécoises dans le but d’améliorer la collaboration des scientifiques québécois avec la communauté scientifique internationnale dans le domaine de la biologie végétale. Le <em>CPICS</em> participe ainsi au rayonnement international du réseau de recherche Québécois, c’est une collaboration à grande échelle ayant pour but une meilleure diffusion du savoir allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un contexte de changement global aujourd’hui connu de tous.</p>
 <p>Le Symposium annuel international du <strong><em>Centre SÈVE</em></strong> est un rassemblement scientifique annuel concrétisant la philosophie du <em>CPICS</em> qui l’organise. Son objectif est non seulement de renforcer et de développer un réseau international du <strong><em>Centre SÈVE</em></strong>, mais aussi de permettre aux étudiant(e)s affilié(e)s au <strong><em>Centre SÈVE</em></strong> de rencontrer des scientifiques de renommées internationnales et de profiter du partage de leur connaissances. C’est une occasion pour toute la communauté du <strong><em>Centre SÈVE</em></strong> d’agrandir son réseau et de faire naitre de nouvelles collaborations, autant à l’échelle canadienne qu’à l’échelle mondiale. C’est également un moment privilégié pour les étudiant(e)s pour qui c’est l’occasion de présenter leurs travaux devant leur pairs, profitant de la proximité que favorise l’évènement.</p>
 <p>Le <em>CPICS</em> donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’un évènement internationnal bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaines des sciences végétales.</p>
-<p><i class="fas fa-envelope"></i> <a href="mailto:cpicseve@gmail.com" class="email">cpicseve@gmail.com</a></p>
+<center>
+<i class="fas fa-envelope"></i> <a href="mailto:cpicseve@gmail.com" class="email">cpicseve@gmail.com</a>
+</center>
+</article>
+</section>
 </div>
 
 
