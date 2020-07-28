@@ -13,7 +13,7 @@ output:
 
 #
 
-#   {.tabset .tabset-fade} 
+#   {.tabset .tabset-fade .tabset-pills} 
 
 ## *2020*
 
@@ -21,4 +21,4 @@ output:
 
 ##  *2019*  
 
-
+![](images/comite_2019.jpg)

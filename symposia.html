@@ -16,29 +16,13 @@
 <script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
 
 
 
@@ -272,11 +256,20 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="about.html">About us</a>
-</li>
-<li>
-  <a href="symposia.html">Events</a>
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Events
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="upcoming.html">Upcoming</a>
+    </li>
+    <li>
+      <a href="symposium_2019.html">2019</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="comites.html">Committees</a>
@@ -313,19 +306,19 @@ $(document).ready(function () {
 <div id="section-4" class="section level1">
 <h1></h1>
 </div>
-<div id="section-5" class="section level1 tabset tabset-fade">
-<h1 class="tabset tabset-fade"></h1>
+<div id="section-5" class="section level1 tabset tabset-fade tabset-pills">
+<h1 class="tabset tabset-fade tabset-pills"></h1>
 <div id="upcoming" class="section level2">
 <h2><strong>Upcoming</strong></h2>
 <p><em>What’s up?</em> Conferences</p>
 </div>
-<div id="past" class="section level2 tabset tabset-fade">
-<h2 class="tabset tabset-fade"><strong>Past</strong></h2>
-<div id="section-6" class="section level4 tabset tabset-fade">
-<h4 class="tabset tabset-fade"><em>2019</em></h4>
+<div id="past" class="section level2 tabset tabset-fade tabset-pills">
+<h2 class="tabset tabset-fade tabset-pills"><strong>Past</strong></h2>
+<div id="section-6" class="section level3 tabset tabset-fade tabset-pills">
+<h3 class="tabset tabset-fade tabset-pills"><em>2019</em></h3>
 <p><img src="images/symposium_2019_banner.jpg" style="width:90%"></p>
-<div id="professors" class="section level5">
-<h5>Professors</h5>
+<div id="professors" class="section level4">
+<h4>Professors</h4>
 <table style="width:100%; border: none;">
 <tr>
 <td align="center" class="photos">
@@ -337,8 +330,8 @@ $(document).ready(function () {
 </tr>
 </table>
 </div>
-<div id="photos" class="section level5">
-<h5>Photos</h5>
+<div id="photos" class="section level4">
+<h4>Photos</h4>
 <p><img src="images/symposium_2019_photos.jpg" /></p>
 <p><img src="images/symposium_2019_photos2.jpg" /></p>
 <p><img src="images/symposium_2019_photos3.jpg" /></p>

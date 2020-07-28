@@ -1,34 +1,25 @@
 ---
-title: "Events"
-name: "Events"
-output:
-  html_document
+title: "Symposium 2019"
+output: html_document
 ---
 
-#
+#  {.tabset .tabset-fade .tabset-pills}
 
-#
+<table style="width:100%; border: none;">
+  <tr>
+    <td align="center" class="photos">
+        <img src="images/symposium_2019_banner_fr.jpg" style="width:90%">
+    </td>
+    <td align="center" class="photos" style="height: 4em"> 
+        <img src="images/symposium_2019_banner_en.jpg" style="width:89%">
+    </td>
+  </tr>
+</table>
 
-#
+<br>
+<br><br><br><br>
 
-#
-
-#
-
-
-
-#   {.tabset .tabset-fade .tabset-pills}
-## **Upcoming**
-
-_What's up?_ Conferences
-
-## **Past**   {.tabset .tabset-fade .tabset-pills}
-
-### *2019*  {.tabset .tabset-fade .tabset-pills}
-
-<img src="images/symposium_2019_banner.jpg" style="width:90%">
-
-#### Professors
+## Professors
 
 <table style="width:100%; border: none;">
   <tr>
@@ -43,7 +34,7 @@ _What's up?_ Conferences
 
 
 
-#### Photos
+## Photos
 
 ![](images/symposium_2019_photos.jpg)
 
