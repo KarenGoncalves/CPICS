@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-size: 20px'>Upcoming / Bientôt</style>"
+title: "event"
 name: "Events"
 output:
   html_document

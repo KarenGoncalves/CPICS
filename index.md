@@ -1,11 +1,12 @@
 ---
-title: "<span style='font-size: 20px'>CPICS/CSIPC</style>"
+title: ""
 name: "Home"
 output:
   html_document
 ---
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
 * {
   box-sizing: border-box;
 }
@@ -22,10 +23,17 @@ header {
   color: white;
 }
 
-/* Create two columns/boxes that floats next to each other */
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
 nav {
-  float: left;
-  width: 30%;
+  -webkit-flex: 1.5;
+  -ms-flex: 1.5;
+  flex: 1.5;
   padding: 20px;
 }
 
@@ -35,20 +43,17 @@ nav ul {
   padding: 0;
 }
 
+/* Style the content */
 article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  text-align: justify; 
-  text-justify: inter-word;
+  -webkit-flex: 2.5;
+  -ms-flex: 2.5;
+  flex: 2.5;
+  padding: 10px;
 }
-
-/* Clear floats after the columns */
-section:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+ p {
+ font-size: 1em;
+ text-align: justify;
+ }
 
 /* Style the footer */
 footer {
@@ -57,11 +62,11 @@ footer {
   color: white;
 }
 
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
 @media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
   }
 }
 </style>
@@ -73,30 +78,31 @@ footer {
 
 <section>
   <nav>
-  <a class="twitter-timeline" data-width="600" data-height="1500" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-height="800" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </nav>
 
   <article>
+    <span> <p style="font-size: 2em; text-align:center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
+[<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442)</p></span>
 
-<center> 
-
-
-
-<span style="font-size: 2em"> <p align="center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
-[<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442)</span>
+<p>*Français*</p>
 
 
-</center> 
+  <p>Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE(CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion dessavoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement globalactuel. </p>
+  
+  <p>Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domainede recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.</p>
 
-<p>
-Fondé en 2018, le **Comité de partenariat international du Centre SÈVE _(CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au **_Centre SÈVE_**. Il regroupe une dizaines d’étudiant(e)s provenant de l’ensemble des universités québécoises dans le but d’améliorer la collaboration des scientifiques québécois avec la communauté scientifique internationnale dans le domaine de la biologie végétale. Le _CPICS_ participe ainsi au rayonnement international du réseau de recherche Québécois, c’est une collaboration à grande échelle ayant pour but une meilleure diffusion du savoir allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un contexte de changement global aujourd’hui connu de tous. 
+<p>*English*</p>
 
-Le Symposium annuel international du **_Centre SÈVE_**  est un rassemblement scientifique annuel concrétisant la philosophie du _CPICS_ qui l’organise. Son objectif est non seulement de renforcer et de développer un réseau international du **_Centre SÈVE_**, mais aussi de permettre aux étudiant(e)s affilié(e)s au **_Centre SÈVE_** de rencontrer des scientifiques de renommées internationnales et de profiter du partage de leur connaissances. C’est une occasion pour toute la communauté du **_Centre SÈVE_** d’agrandir son réseau et de faire naitre de nouvelles collaborations, autant à l’échelle canadienne qu’à l’échelle mondiale. C’est également un moment privilégié pour les étudiant(e)s pour qui c’est l’occasion de présenter leurs travaux devant leur pairs, profitant de la proximité que favorise l’évènement. 
+    
+  <p>Created in 2018, **_Center SÈVE International Partnership Committee (CSIPC)_** is a graduate student committee member of **_Center SÈVE_**. Conducted by ten students from Quebec Universities, **_CSIPC_** increase collaborations between Quebec and international researchers in plant biology field. **_CSIPC_** stimulate Quebec research networking by a better broadcast of knowledge from its community through plant productivity or ecosystem sustainability, all together with a proactive behavior facing the actual global changing. </p>
+  
+  <p>**_CSIPC_** is an opportunity for involved student to contribute to their scientific community and manage the organization of events that benefit the whole scientific community of Plant biologists from Quebec.</p>
+  
+  <center>
+    <i class="fas fa-envelope"></i> <p style="text-align:center">cpicseve@gmail.com</p>
+  </center>
 
-Le _CPICS_ donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’un évènement internationnal bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaines des sciences végétales. 
-</p>
-<center>
-<i class="fas fa-envelope"></i> cpicseve@gmail.com
-</center>
-</article>
+  </article>
+
 </section>
