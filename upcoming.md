@@ -83,12 +83,7 @@ footer {
 #
 
 
-<section>
-<nav>
 ![](images/whatsup_conferences_fr.png)
-</nav>
-<article>
+
 ![](images/whatsup_conferences_en.png)
-</article>
-</section>
 
