@@ -1,0 +1,23 @@
+name: "Comité de partenariat international du Centre SÈVE"
+navbar:
+  title: "CPICS | CSIPC"  
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: _site/index.html
+    - text: "About us"
+      href: _site/about.html
+    - text: "Symposia"
+      href: _site/symposia.html
+    - text: "Past committes"
+      href: _site/comites.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: cpicseve@gmail.com
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/CPICSEVE
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/company/cpics/about/
+output:
+  rmarkdown::html_document:
+    theme: paper
