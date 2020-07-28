@@ -14,7 +14,7 @@ output:
 <img src="images/logo_full.png">
 
 
-<span style="font-size: 2em"> <p align="center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fas fa-envelope"></i>](cpicseve@gmail.com) </span>
+<span style="font-size: 2em"> <p align="center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) </span>
 
 </center>
 
@@ -23,3 +23,5 @@ Fondé en 2018, le **Comité de partenariat international du Centre SÈVE _(CPIC
 Le Symposium annuel international du **_Centre SÈVE_**  est un rassemblement scientifique annuel concrétisant la philosophie du _CPICS_ qui l’organise. Son objectif est non seulement de renforcer et de développer un réseau international du **_Centre SÈVE_**, mais aussi de permettre aux étudiant(e)s affilié(e)s au **_Centre SÈVE_** de rencontrer des scientifiques de renommées internationnales et de profiter du partage de leur connaissances. C’est une occasion pour toute la communauté du **_Centre SÈVE_** d’agrandir son réseau et de faire naitre de nouvelles collaborations, autant à l’échelle canadienne qu’à l’échelle mondiale. C’est également un moment privilégié pour les étudiant(e)s pour qui c’est l’occasion de présenter leurs travaux devant leur pairs, profitant de la proximité que favorise l’évènement. 
 
 Le _CPICS_ donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’un évènement internationnal bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaines des sciences végétales. 
+
+<i class="fas fa-envelope"></i> cpicseve@gmail.com
