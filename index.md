@@ -7,16 +7,12 @@ output:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
 <style type="text/css">
 .main-container {
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
 }
-</style>
-
-<style>
 * {
   box-sizing: border-box;
 }
@@ -47,6 +43,13 @@ output:
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
 }
 </style>
 
