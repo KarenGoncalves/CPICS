@@ -72,6 +72,20 @@ footer {
     flex-direction: column;
   }
 }
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+div.figure p + p {
+  display: table-caption;
+}
+
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
@@ -85,8 +99,14 @@ footer {
 
 #
 
+<figure>
+  <img src="images/whatsup_conferences_fr.png" alt="Trulli" style="width:100%">
+  <figcaption>Discussions avec 2 chercheurs invités (international et Québec) !</figcaption>
+</figure>
 
-![](images/whatsup_conferences_fr.png)
 
-![](images/whatsup_conferences_en.png)
+<figure>
+  <img src="images/whatsup_conferences_en.png" alt="Trulli" style="width:100%">
+  <figcaption>Discussions with 2 guest researchers (international and Quebec) !</figcaption>
+</figure>
 

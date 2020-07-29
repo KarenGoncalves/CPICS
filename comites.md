@@ -4,10 +4,11 @@ name: "Committees"
 output:
   html_document
 ---
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
+<style type="text/css">
 body {  background-color: rgba(50, 130, 102, 0.3);}
-</style>
 #
 
 #
@@ -20,7 +21,7 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
 
 ## 2020
 
-### 2020-05-13
+### 2020-05-09
 
 ![](images/comite_2020_new.jpg)
 

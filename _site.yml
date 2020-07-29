@@ -16,5 +16,5 @@ navbar:
   right:
 output:
   html_document:
-    theme: flatly
+    css: "site_libs/bootstrap-3.5.5/css/minty.min.css"
     
