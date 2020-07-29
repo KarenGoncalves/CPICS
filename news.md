@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "News / Nouvelles"
 name: "News"
 output:
   html_document:
@@ -13,7 +13,7 @@ output:
 
 body {  background-color: rgba(50, 130, 102, 0.3);}
 .main-container {
-  max-width: 1800px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -71,42 +71,67 @@ text-align:justify;
 
 ## 2020
 
-### 202-06-16
-
-<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/103541648_1427129867481289_4692115527195935357_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=47_3OQBC7hEAX-TxokW&_nc_ht=scontent-yyz1-1.xx&oh=ad7d2e9b71c76d6dd829a6cdfa1bcadc&oe=5F46C182" style="padding-left:25px">
+### 2020-07-29
 
 <div class="column left">
-<p>Une autre captivante conférence Web du Centre SÈVE aujourd'hui, avec Karen Cristine Gonçalves Dos Santos de l'UQTR. Merci à tous les participants!</p>
-</div>
+  <p> Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
+</div>  
 <div class="column right">
-<p> Another captivating Centre SEVE's web conference today with Karen Cristine Gonçalves Dos Santos from UQTR. Thank you to all participants.</p>
+  <p> Congratulation to the Centre SEVE students that are presenting at the Worldwide Plant Biology Summit 2020. </p>
+</div>
+
+<span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
+
+|**IRBV**|**McGill University**|**Université de Laval**|**Université de Montréal**|**Université de Sherbrooke**|
+|:-|:-|:-|:-|:-|
+|Camille Auger|[Amir Bidhendi](https://www.researchgate.net/profile/Amir_Bidhendi/experience)|[Francisco Campos](https://www.researchgate.net/profile/Francisco_Campos23)|[Eszter Sas](https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca)|[Charles Rouissan-Léveillée](https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca)|
+|[Adrien Fremont](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/)|[Karuna Kapoor](https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en)|||Gaële Lajeunesse|
+| |[Meha Sharma](https://www.researchgate.net/profile/Meha_Sharma5)|||[Guilherme Silva-Martins](https://www.linkedin.com/in/guilherme-martins-1268202b/)|
+| ||||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
+
+</span>
+
+### 2020-06-16
+
+<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/103541648_1427129867481289_4692115527195935357_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=47_3OQBC7hEAX-TxokW&_nc_ht=scontent-yyz1-1.xx&oh=ad7d2e9b71c76d6dd829a6cdfa1bcadc&oe=5F46C182" class="center">
+
+<div class="row">
+<div class="column left">
+
+<p>Une autre captivante conférence Web du Centre SÈVE aujourd'hui, avec **Karen Cristine Gonçalves Dos Santos** de l'_UQTR_. Merci à tous les participants!</p>
+
+</div>
+
+<div class="column right">
+<p> Another captivating Centre SEVE's web conference today with **Karen Cristine Gonçalves Dos Santos** from _UQTR_. Thank you to all participants.</p>
+</div>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
 ### 2020-05-09
 
 <div class="column left">
-<p>Bienvenue à Maribel Diaz et Vincent Charron-Lamoureux dans le C.A. à titre de secrétaire en remplacement de Alexia Bertholon, qui dû se retirer du comité.</p>
+<p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui dû se retirer du comité.</p>
 
-<p>Félicitation à vous deux !</p>
+<p>**_Félicitation à vous deux !_**</p>
 
 </div>
 
 
 <div class="column right">
-<p>Welcome to Maribel Diaz and Vincent Charron-Lamoureux in the administrative committee of CSPIC as secretaries, replacing Alexia Bertholon, who unfortunatly had to leave the committee.</p>
+<p>Welcome to **Maribel Diaz** and **Vincent Charron-Lamoureux** in CSPIC's administration as secretaries, replacing **Alexia Bertholon**, who unfortunatly had to leave the committee.</p>
 
-<p>Congratulation to you two!</p>
+<p>**_Congratulation to you two!_**</p>
 
 </div>
 
 ### 2020-03-02
 
 <div class="column left">
-<p>Félicitations à Claire Letanneur, doctorante à l'UQTR, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
+<p>Félicitations à **Claire Letanneur**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
 <div class="column right">
-<p> Congratulations to Claire Letanneur, PhD student at UQTR, for the award of a grant at the first competition of the program DIALOGUE. Only four projects were selected for each research sector of the FRQ's</p>
+<p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the program DIALOGUE. Only four projects were selected for each research sector of the FRQ's</p>
 </div>
 
 
