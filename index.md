@@ -8,6 +8,8 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style type="text/css">
+
+body {  background-color: rgba(50, 130, 102, 0.3);}
 .main-container {
   max-width: 1800px;
   margin-left: auto;
@@ -74,9 +76,9 @@ output:
 <p style="font-size: 1.5em; text-align: justify;">*Français*</p>
 
 
-  <p style="font-size: 1.5em; text-align: justify;">Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE(CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion dessavoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement globalactuel. </p>
+  <p style="font-size: 1.5em; text-align: justify;">Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE(CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel. </p>
   
-  <p style="font-size: 1.5em; text-align: justify;">Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domainede recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.</p>
+  <p style="font-size: 1.5em; text-align: justify;">Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.</p>
   </div>
 
 <div class="column right">

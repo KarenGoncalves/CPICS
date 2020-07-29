@@ -7,6 +7,7 @@ output: html_document
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style type="text/css">
+body {  background-color: rgba(50, 130, 102, 0.3);}
 .main-container {
   max-width: 1800px;
   margin-left: auto;
@@ -19,13 +20,21 @@ output: html_document
 /* Create three unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+
 }
 
 .left, .right{
   width: 50%;
 }
 
+.left {
+  padding-left: 25px;
+  padding-right: 10px;
+}
+.right {
+padding-right: 25px;
+padding-left: 10px;
+}
 p {
 text-align:justify;
 }

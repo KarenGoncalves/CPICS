@@ -4,9 +4,12 @@ name: "Events"
 output:
   html_document
 ---
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+body {  background-color: rgba(50, 130, 102, 0.3);}
+
 * {
   box-sizing: border-box;
 }
