@@ -131,7 +131,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <p>Félicitations à **Claire Letanneur**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
 <div class="column right">
-<p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the program DIALOGUE. Only four projects were selected for each research sector of the FRQ's</p>
+<p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the student category from the FRQNT illustration of DIALOGUE funding. Only four projects were selected for each research sector of the FRQ's</p>
 </div>
 
 

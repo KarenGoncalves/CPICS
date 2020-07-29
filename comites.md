@@ -9,6 +9,8 @@ output:
 
 <style type="text/css">
 body {  background-color: rgba(50, 130, 102, 0.3);}
+</style>
+
 #
 
 #

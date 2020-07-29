@@ -107,18 +107,19 @@ text-align:justify;
 ## Photos
 
 <div class="column left">
-![](images/symposium_2019_photos.jpg)
+![](images/symposium_2019_photos5.jpg)
 
-![](images/symposium_2019_photos2.jpg)
+![](images/symposium_2019_photos4.jpg)
 
 ![](images/symposium_2019_photos3.jpg)
 </div>
 
 <div class="column right">
 
-![](images/symposium_2019_photos4.jpg)
-
-![](images/symposium_2019_photos5.jpg)
-
 ![](images/symposium_2019_photos6.jpg)
+
+![](images/symposium_2019_photos.jpg)
+
+![](images/symposium_2019_photos2.jpg)
+
 <div>
